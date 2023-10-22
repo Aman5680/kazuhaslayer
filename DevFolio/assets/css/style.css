@@ -30,7 +30,7 @@ a {
 }
 
 a:hover {
-  color: #0078ff;
+  color: black;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -41,7 +41,7 @@ a:hover {
 
 .color-a {
   text-decoration: none;
-  color: #0078ff;
+  color: black;
 }
 
 .color-d {
@@ -100,7 +100,7 @@ a:hover {
 }
 
 .overlay-mf {
-  background-color: #0078ff;
+  background-color: black;
 }
 
 .overlay-mf {
@@ -169,7 +169,7 @@ a:hover {
 .line-mf {
   width: 40px;
   height: 5px;
-  background-color: #0078ff;
+  background-color: black;
   margin: 0 auto;
 }
 
@@ -187,7 +187,7 @@ a:hover {
   content: "";
   position: absolute;
   height: 3px;
-  background-color: #0078ff;
+  background-color: black;
   width: 100px;
   bottom: -12px;
 }
@@ -228,12 +228,12 @@ a:hover {
   border-radius: 50%;
   line-height: 1.6;
   margin: 0 15px 0 0;
-  box-shadow: 0 0 0 3px #0078ff;
+  box-shadow: 0 0 0 3px black;
   transition: all 500ms ease;
 }
 
 .socials .ico-circle:hover {
-  background-color: #0078ff;
+  background-color: black;
   color: #fff;
   box-shadow: 0 0 0 3px #cde1f8;
   transition: all 500ms ease;
@@ -257,7 +257,7 @@ a:hover {
 }
 
 .list-ico span {
-  color: #0078ff;
+  color: black;
   margin-right: 10px;
 }
 
@@ -270,7 +270,7 @@ a:hover {
   line-height: 1.55;
   margin: 0 auto;
   text-align: center;
-  box-shadow: 0 0 0 10px #0078ff;
+  box-shadow: 0 0 0 10px black;
   display: block;
 }
 
@@ -315,7 +315,7 @@ a:hover {
   position: fixed;
   width: 42px;
   height: 42px;
-  background-color: #0078ff;
+  background-color: black;
   opacity: 0.7;
   font-size: 1.6rem;
   line-height: 1.5;
@@ -339,7 +339,7 @@ a:hover {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0078ff;
+  background: black;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -353,7 +353,7 @@ a:hover {
 }
 
 .back-to-top:hover {
-  background: #298eff;
+  background: black;
   color: #fff;
 }
 
@@ -380,7 +380,7 @@ a:hover {
   top: calc(50% - 30px);
   left: calc(50% - 30px);
   border: 6px solid #f2f2f2;
-  border-top: 6px solid #0078ff;
+  border-top: 6px solid black;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -418,14 +418,14 @@ a:hover {
 }
 
 .button:hover {
-  background-color: #0062d3;
+  background-color: black;
   color: #fff;
   transition: all 500ms ease;
 }
 
 .button-a {
   text-decoration: none;
-  background-color: #0078ff;
+  background-color:black;
   color: #fff;
   border-color: #cde1f8;
 }
@@ -658,7 +658,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 .navbar .dropdown ul a:hover,
 .navbar .dropdown ul .active:hover,
 .navbar .dropdown ul li:hover>a {
-  color: #0078ff;
+  color:black;
 }
 
 .navbar .dropdown:hover>ul {
@@ -763,7 +763,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 .navbar-mobile a:hover,
 .navbar-mobile .active,
 .navbar-mobile li:hover>a {
-  color: #0078ff;
+  color: black;
 }
 
 .navbar-mobile .getstarted,
@@ -798,7 +798,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 .navbar-mobile .dropdown ul a:hover,
 .navbar-mobile .dropdown ul .active:hover,
 .navbar-mobile .dropdown ul li:hover>a {
-  color: #0078ff;
+  color: black;
 }
 
 .navbar-mobile .dropdown>.dropdown-active {
@@ -878,7 +878,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 
 .hero-single .breadcrumb {
   background-color: transparent;
-  color: #0078ff;
+  color: black;
 }
 
 .hero-single .breadcrumb .breadcrumb-item:before {
@@ -929,7 +929,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 
 .skill-mf .progress .progress-bar {
   height: 0.7rem;
-  background-color: #0078ff;
+  background-color: black;
 }
 
 /*--------------------------------------------------------------
@@ -946,7 +946,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 .service-box:hover .ico-circle {
   transition: all 500ms ease;
   color: #fff;
-  background-color: #0078ff;
+  background-color: black;
   box-shadow: 0 0 0 10px #cde1f8;
 }
 
