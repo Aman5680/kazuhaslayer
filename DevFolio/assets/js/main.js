@@ -5,6 +5,30 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
+let currentSlide = 0;
+const slides = document.querySelectorAll('.slide');
+const totalSlides = slides.length;
+
+function showSlide(index) {
+    slides[currentSlide].style.left = '100%';
+    currentSlide = index;
+    if(currentSlide >= totalSlides) currentSlide = 0;
+    slides[currentSlide].style.left = '0';
+}
+
+document.querySelector('.prev').addEventListener('click', () => {
+    showSlide(currentSlide - 1);
+});
+
+document.querySelector('.next').addEventListener('click', () => {
+    showSlide(currentSlide + 1);
+});
+
+// Automatically change slide every 5 seconds
+setInterval(() => {
+    showSlide(currentSlide + 1);
+}, 3000);  // 5000 milliseconds = 5 seconds
+
 (function () {
   "use strict";
 
