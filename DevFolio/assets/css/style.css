@@ -811,6 +811,9 @@ body.dark h1, body.dark .support a {color: #fff;}
 --------------------------------------------------------------*/
 .hero {
   height: 100vh;
+  margin-top: 80px;
+  margin-left: 40px;
+  margin-right: 40px;
   position: relative;
   color: #fff;
   font-family: 'Times New Roman', Times, serif;
