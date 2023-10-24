@@ -9,6 +9,8 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+
 body {
   background-color:#B2B4B2;
   color: #4e4e4e;
@@ -810,10 +812,6 @@ body.dark h1, body.dark .support a {color: #fff;}
 --------------------------------------------------------------*/
 .hero {
   height: 100vh;
-  margin-top: 80px;
-  margin-left: 40px;
-  margin-right: 40px;
-  margin-bottom: 80px;
   position: relative;
   color: #fff;
   font-family: 'Times New Roman', Times, serif;
