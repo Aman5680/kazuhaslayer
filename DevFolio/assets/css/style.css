@@ -10,7 +10,7 @@
 # General
 --------------------------------------------------------------*/
 body {
-  background-color: #f5f5f5;
+  background-color:#B2B4B2;
   color: #4e4e4e;
 }
 
@@ -1042,17 +1042,17 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .work-content .w-more .w-ctegory {
-  color: #0078ff;
+  color: black;
 }
 
 .work-content .w-like {
   font-size: 2.5rem;
-  color: #0078ff;
+  color: black;
   float: right;
 }
 
 .work-content .w-like a {
-  color: #0078ff;
+  color: black;
 }
 
 .work-content .w-like .num-like {
@@ -1084,11 +1084,11 @@ body.dark h1, body.dark .support a {color: #fff;}
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #0078ff;
+  border: 1px solid black;
 }
 
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #0078ff;
+  background-color: black;
 }
 
 .portfolio-details .portfolio-info {
@@ -1155,7 +1155,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 
 .testimonial-box .comit {
   font-size: 2rem;
-  color: #0078ff;
+  color: black;
   background-color: #fff;
   width: 52px;
   height: 52px;
@@ -1263,7 +1263,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 
 .php-email-form input:focus,
 .php-email-form textarea:focus {
-  border-color: #0078ff;
+  border-color:black;
 }
 
 .php-email-form input {
@@ -1276,7 +1276,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .php-email-form button[type=submit] {
-  background: #0078ff;
+  background: black;
   border: 0;
   padding: 10px 24px;
   color: #fff;
@@ -1284,7 +1284,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .php-email-form button[type=submit]:hover {
-  background: #3393ff;
+  background: black;
 }
 
 @keyframes animate-loading {
@@ -1325,7 +1325,7 @@ body.dark h1, body.dark .support a {color: #fff;}
   color: #fff;
   padding: 0 15px 5px;
   overflow: hidden;
-  background-color: #0078ff;
+  background-color: black;
   border-radius: 4px;
 }
 
@@ -1394,7 +1394,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .blog-wrapper .post-meta ul {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid black;
   margin-top: 1rem;
 }
 
@@ -1404,7 +1404,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .blog-wrapper .post-meta ul a {
-  color: #0078ff;
+  color: black;
 }
 
 .blog-wrapper .post-meta ul span {
@@ -1412,7 +1412,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .blog-wrapper .blockquote {
-  border-left: 4px solid #0078ff;
+  border-left: 4px solid black;
   padding: 18px;
   font-style: italic;
 }
@@ -1449,7 +1449,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .box-comments .list-comments a {
-  color: #0078ff;
+  color: black;
 }
 
 .box-comments .list-comments span {
@@ -1465,7 +1465,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 .widget-sidebar .sidebar-title {
   font-size: 1.6rem;
   font-weight: 600;
-  border-left: 5px solid #0078ff;
+  border-left: 5px solid black;
   padding-left: 15px;
   text-transform: uppercase;
   margin-bottom: 1.5rem;
@@ -1482,7 +1482,7 @@ body.dark h1, body.dark .support a {color: #fff;}
   width: 10px;
   height: 1px;
   left: 0;
-  background-color: #0078ff;
+  background-color: black;
   top: 20px;
 }
 
@@ -1493,8 +1493,8 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .sidebar-search .btn-search {
-  background-color: #0078ff;
-  border-color: #0078ff;
+  background-color: black;
+  border-color:black;
   border-radius: 0;
   padding-left: 20px;
   padding-right: 20px;
@@ -1502,7 +1502,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 
 .widget-tags ul li {
   display: inline-block;
-  background-color: #0078ff;
+  background-color: black;
   padding: 0.2rem 0.6rem;
   margin-bottom: 0.5rem;
   border-radius: 15px;
@@ -1519,7 +1519,7 @@ footer {
   text-align: center;
   color: #fff;
   padding: 25px 0;
-  background: #0062d3;
+  background: black;
 }
 
 footer .copyright {
