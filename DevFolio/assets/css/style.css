@@ -1552,3 +1552,6 @@ footer .credits a {
   align-items: center;
   height: 20vh; /* Centers the button vertically on the page */
 }
+.h3{
+  text-align: center;
+}
