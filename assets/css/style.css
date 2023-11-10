@@ -1349,7 +1349,7 @@ body.dark h1, body.dark .support a {color: #fff;}
 .card-blog .post-date {
   color: #4e4e4e;
   display: inline-block;
-  float: right;
+  /* float: right; */
 }
 
 /*--------------------------------------------------------------
@@ -1533,7 +1533,7 @@ footer .credits a {
   justify-content: center;
   align-items: center;
   padding: 10px 20px;
-  background-color: red;
+  background-color: #E60023;
   color: white;
   border: none;
   border-radius: 5px;
