@@ -902,13 +902,16 @@ body.dark h1, body.dark .support a {color: #fff;}
 }
 
 .about-mf .about-img img {
-  margin-left: 10px;
+  display: block;
+  margin-left: 80%;
+  margin-right: auto;
+  width: 100%;
 }
 
-@media (min-width: 767px) {
-  .about-mf .box-pl2 {
-    margin-top: 3rem;
-    padding-left: 0rem;
+@media (max-width: 768px) {
+  .about-mf .about-img img {
+    margin-left: 0;  
+    width: 100%;     
   }
 }
 
